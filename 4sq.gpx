@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GPSies http://www.gpsies.com - 8b9ae83a197a4cc75121ecbb662f0f76-1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>8b9ae83a197a4cc75121ecbb662f0f76-1</name>
+    <link href="http://www.gpsies.com/">
+      <text>8b9ae83a197a4cc75121ecbb662f0f76-1 on GPSies.com</text>
+    </link>
+    <time>2012-12-21T19:31:00Z</time>
+  </metadata>
+  <wpt lat="50.09544087" lon="8.214508300">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.79361006" lon="8.668120148">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.09624157" lon="8.220873662">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.09550051" lon="8.214948995">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.88103971" lon="8.662470388">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.06097993" lon="14.42759838">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.05034190" lon="8.569751605">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.09543998" lon="8.214520862">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.09589984" lon="8.216226772">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.09497964" lon="8.215097557">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.09769009" lon="8.216489151">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.09543844" lon="8.214969258">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.07079996" lon="8.243728954">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>
+
